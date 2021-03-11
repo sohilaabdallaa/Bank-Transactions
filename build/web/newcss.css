@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 25, 2020, 9:39:46 PM
+    Author     : Sohila
+*/
+        
+        body{
+            background-image: url("bank.jfif");
+            background-repeat: no-repeat;
+          background-size: cover;
+        }
+        .logform{
+            font-family: Times New Roman;
+            font-size: 25px;
+            text-align: center;
+            margin-top: 200px;
+           
+        }
+        .button{
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:#21558B;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-left:15px;  
+}
+.button:hover {background-color: #8EA6CA }
+
+.button:active {
+  background-color: #8EA6CA;
+  box-shadow: 0 5px #C0C0C0;
+  transform: translateY(4px);
+}
+td{
+    
+    font-size: 20px;
+
+}
+a
+{
+    
+    text-decoration:none ;  
+    color:white;
+    font-size:32px;
+    
+}
